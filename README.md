@@ -29,3 +29,9 @@ Using chrome.tabs and chrome.runtime API to exchange messages between popup.js a
 
 ### 7_storage_notifications
 Using chrome.storage.sync API to save data across logged in Chrome browsers and notification API.
+
+## Chrome Extensions Development Documentaion
+https://developer.chrome.com/extensions
+
+## Boilerplate Generator
+https://extensionizr.com/
