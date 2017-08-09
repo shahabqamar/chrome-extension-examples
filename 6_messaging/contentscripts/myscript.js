@@ -1,4 +1,4 @@
-//listen for response from background script
+//listen for messages from background script
 chrome.runtime.onMessage.addListener(
     function(request, sender, sendResponse) {
         console.log("Question recieved: ", request);
