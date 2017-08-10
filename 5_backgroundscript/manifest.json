@@ -13,7 +13,7 @@
 
     //page_action, browser_action or none
     "browser_action": {
-        "default_title": "Content Script Demo!", // shown in tooltip
+        "default_title": "Background Script Demo!", // shown in tooltip
         "default_popup": "popup.html"
     },
 
